@@ -207,7 +207,7 @@ body{
 
     & form{
       & input[type="text"], & input[type="password"], & input[type="submit"] {
-        width: 300px !important;
+        width: 300px;
       }
 
       & p{
