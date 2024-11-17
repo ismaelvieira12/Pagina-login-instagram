@@ -46,7 +46,7 @@ body{
 
       & .rigth{
         height: 600px;
-        margin-bottom: 50px;
+        /* margin-bottom: 50px; */
         & .main-painel{
           background-color: #ffffff;
           border: 1px solid #e6e6e6;
