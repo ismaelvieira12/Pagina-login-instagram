@@ -257,15 +257,18 @@ body{
 @media(max-width: 560px){
   .container{
     width: 90% !important;
+    font-size: 15px;
   }
 
   form{
     & input[type="text"], & input[type="password"], & input[type="submit"] {
       width: 80%!important;
     }
+    font-size: 15px;
   }
-
+  
   .social-midia{
+    padding: 0 20px !important;
     & img{
       height: 40px !important;
     }
