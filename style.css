@@ -265,7 +265,9 @@ body{
     }
   }
 
-  .apps{
-    height: 20px !important;
+  .social-midia{
+    & img{
+      height: 40px !important;
+    }
   }
 }
